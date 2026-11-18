@@ -15,7 +15,7 @@ This package prevents automatic follow ups from changing the ticket status. This
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 
 **Installation**
 
